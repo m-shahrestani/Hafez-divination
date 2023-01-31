@@ -1,7 +1,7 @@
 # Hafez Divination 
 
-It is my Mobile Programming course assignment.  
 A simple Android App to divining from Hafez poems. 
+It is my Mobile Programming course assignment.  
 
 ## Screenshots 
 

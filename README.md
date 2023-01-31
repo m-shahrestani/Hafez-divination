@@ -5,9 +5,9 @@ A simple Android App to divining from Hafez poems.
 
 ## Screenshots 
 
-![App Screenshot](images/mainmenu.jpg)
-![App Screenshot](images/fal1.jpg)
-![App Screenshot](images/fal2.jpg)
-![App Screenshot](images/icon.jpg)
-![App Screenshot](images/icon2.jpg)
-![App Screenshot](images/about.jpg)
+<img src="images/mainmenu.jpg" alt="drawing" style="width:200px;"/>
+<img src="images/fal1.jpg" alt="drawing" style="width:200px;"/>
+<img src="images/fal2.jpg" alt="drawing" style="width:200px;"/>
+<img src="images/icon.jpg" alt="drawing" style="width:200px;"/>
+<img src="images/icon2.jpg" alt="drawing" style="width:200px;"/>
+<img src="images/about.jpg" alt="drawing" style="width:200px;"/>

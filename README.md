@@ -1,9 +1,10 @@
-# Hafez-divination 
+# Hafez Divination 
 
 It is my Mobile Programming course assignment. 
 A simple Android App to divining from Hafez poems. 
 
-## Screenshots
+## Screenshots 
+
 ![App 
 Screenshot](images/main menu.jpg)
 ![App 
